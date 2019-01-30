@@ -1,0 +1,104 @@
+Megan Schemmel
+Kansas City
+(773) 771-1377
+megschem@gmail.com
+Front-End Website and WordPress Developer
+
+I am seeking an apprenticeship or entry level role that focuses on front-end development with JavaScript, but is open to developing further full-stack capabilities.
+Growing and learning from others is tantamount to my desire to produce quality and detailed work that meets the standards set and used by the team.  Working well with others is my forte’, but I am quite self-driven as well.  
+Feeling productive and contributing to a project with like-minded people who can communicate well is what I desire.  It’s the people, not the technology or tools, that have mattered most for project success.
+
+Skills
+
+* Technologies: HTML, CSS, CSS Grid, JavaScript
+* Wordpress: WP Engine Hosting, Plugins, Themes, etc
+* Tools: Git, Github, VS Code, Sublime Text 3, Trello, Moqups
+* Project Management: stuff
+* Client Management: stuff
+
+Recent Projects
+
+Babes with Blades Theatre Website
+Remote, 2017-2018
+
+* https://www.babeswithblades.org
+* WordPress build for non-profit theatre company with 20+ years migration of content
+* Continue to serve as admin and web developer; support updates and add new/old content
+* Built with Avada ThemeFusion & hosted by WP Engine
+* Plugins: Fusion Builder, Fusion Core, Constant Contact Forms for WordPress, Contact Form 7, PayPal Donations, The Events Calendar, Google Analytics for WordPress by MonsterInsights, WP Accessibility, WP Tota11y, Akismet Anti-Spam
+
+Gallery400 Exhibition Website
+University of Illinois at Chicago
+Remote, 2018
+
+* https://www.g400disabilityproject.com
+* WordPress build for UIC art gallery focusing on accessibility features
+* Strict requirements for interactive, responsive on-sight iPads or smartphones
+* No designs were provided; I merged similar structure and colors based on their other sites
+* Utilized Moqups wireframes with client feedback loops
+* Wordpress, Avada ThemeFusion, WP Engine
+* Plugins: Fusion Builder, Fusion Core, WP Accessibility, WP Tota11y, Akismet Anti-Spam
+
+MPI Media Marketing Campaign Website
+Remote, 2018
+
+* Assisted small agency by creating User Interface forms for a trade show event
+* This was my first contact with HTML and required that I learn on the job
+* HTML, CSS, Moqups, Codepen, Sublime Text 3
+
+Freelance Front-End Developer WordPress (Remote, Dec 2016 - Present)
+
+* stuff
+* stuff
+* stuff
+
+Work Experience
+
+Chalmers & Nagel, P.C., On-site (Oct 2004 - 2018), 14 years
+Chicago, Illinois
+
+Office Manager
+
+* Management of a small, Chicago law firm consisting of 2 partner attorneys*, 1 associate attorney and 1 support staff 
+* Provided front-line customer service in-person and via email and phone
+* Synchronized Microsoft Office programs, Google Calendar, and NEC VoIP Phones throughout office
+* Hired, trained and managed part-time support staff
+
+Legal Assistant
+
+* Chalmers & Nagel, P.C. (Oct 2004 - 2018)
+* Prepared litigation filings and discovery
+* Docketed all court dates, appointments and Statutes of Limitation into AMICUS and firm’s Google calendars
+* Utilized AMICUS Attorney Small Firm’s CMS to manage client information, billing, appointments, to-do’s, etc.
+
+Personal Injury Specialist
+
+* Chalmers & Nagel, P.C. (Oct 2004 - 2018)
+* Provided emotional and informational support to clients in regard to proper medical care and typical situations that arise with insurance companies, medical bills, etc. for bodily injury claims
+* Tracked clients’ medical treatment and obtained copies of medical records for negotiations
+* Assisted in the process of opening claims, providing status updates, and the handing of settlement documents for bodily injury claims with insurance companies
+* 1 personal injury attorney, and 1 attorney who handled a wide range of (but wasn’t limited to) civil, corporate, breach of contract, landlord/tenant, discrimination, defamation, and construction litigation matters.
+
+Education
+
+Bachelor of Fine Arts – Theatre & Voice
+University of Kansas
+
+Self-Learning Courses
+
+* Learn Enough to Be Dangerous (Command Line, Text Editor, Git)
+* Learn Enough to Be Dangerous (HTML, CSS & Layout)
+* Codecademy (HTML, CSS, JavaScript)
+* Udemy (Javascript: The Weird Parts)
+* Wes Bos: CSS Grid
+* WordPress (tutorials)
+* WPEngine (tutorials)
+* Avada ThemeFusion (tutorials)
+* Lynda.com (WordPress Accessibility courses)
+* GDI (Girl Develop It-Chicago) 2018 Accessibility meet-up
+
+Miscellaneous
+
+* Improvisor (The Second City Training Center: Improv Level A – E)
+* Actor (Babes With Blades Theatre Company, Company Member, 7 years)
+* Voiceover Artist - https://www.meganvoices.com
